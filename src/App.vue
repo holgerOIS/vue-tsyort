@@ -20,7 +20,7 @@ export default {
   },
   data(){
     return {
-      ttt:["Holger", "Vera", "Adrian", "JULIA"]
+      ttt:["Hans", "Adam", "Eva", "Judith"]
     }
   }
 }
